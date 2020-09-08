@@ -1,10 +1,10 @@
 ### Hi there, I'm Ahmed Raza 👋👨‍💻 💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ejazahm3d/)](https://www.linkedin.com/in/ahmed-raza-17260a/)
-[![Twiter](https://img.shields.io/badge/-Twiter-blue?style=for-the-badge&logoColor=white&link=https://twitter.com/ahmedraza17260)](https://twitter.com/ahmedraza17260)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logoColor=white&link=https://www.facebook.com/ahmedraza1626)](https://www.facebook.com/ahmedraza1626)
-[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logoColor=white&link=https://instagram.com/ahmedraza17260)](https://instagram.com/ahmedraza17260)
-
+[![LINKEDIN Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ejazahm3d/)](https://www.linkedin.com/in/ahmed-raza-17260a/)
+[![TWITER](https://img.shields.io/badge/-TWITER-blue?style=for-the-badge&logoColor=white&link=https://twitter.com/ahmedraza17260)](https://twitter.com/ahmedraza17260)
+[![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-blue?style=for-the-badge&logoColor=white&link=https://www.facebook.com/ahmedraza1626)](https://www.facebook.com/ahmedraza1626)
+[![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-blue?style=for-the-badge&logoColor=white&link=https://instagram.com/ahmedraza17260)](https://instagram.com/ahmedraza17260)
+[![PORTFOLIO](https://img.shields.io/badge/-PORTFOLIO-blue?style=for-the-badge&logoColor=white&link=https://ahmedraza-portfolio.netlify.app/)](https://ahmedraza-portfolio.netlify.app/)
 <br />
 As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowing me.
 
