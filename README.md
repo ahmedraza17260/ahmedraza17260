@@ -40,6 +40,6 @@ As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowi
 ### Here are the tools I use/work with.
 
 - **FrontEnd Technologies**: React/Redux, GraphQL
-- **Programming Languages**: JavaScript/Typescript, C#, HTML, CSS
+- **Programming Languages**: JavaScript/Typescript, C#, ASP.NET, HTML, CSS, Bootstrap
 - **Version Control**: Git and GitHub
   <br />
