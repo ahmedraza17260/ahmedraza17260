@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmed Raza 👋👨‍💻 💻
 
-[![LINKEDIN Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ejazahm3d/)](https://www.linkedin.com/in/ahmed-raza-17260a/)
+[![LINKEDIN Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-raza-17260a/)](https://www.linkedin.com/in/ahmed-raza-17260a/)
 [![TWITTER](https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/ahmedraza17260)](https://twitter.com/ahmedraza17260)
 [![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ahmedraza1626)](https://www.facebook.com/ahmedraza1626)
 [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-blue?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ahmedraza17260)](https://instagram.com/ahmedraza17260)
@@ -59,7 +59,8 @@ As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowi
 - **Version Control**: Git and GitHub
   <br />
 
-<!-- Profile Views -->
+### Profile Views
 ![](https://komarev.com/ghpvc/?username=ahmedraza17260&style=plastic)
 
+#### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/ahmedraza17260/count.svg)
