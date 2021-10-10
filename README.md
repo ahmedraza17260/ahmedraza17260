@@ -2,7 +2,7 @@
 
 [![LINKEDIN Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-raza-17260a/)](https://www.linkedin.com/in/ahmed-raza-17260a/)
 [![TWITTER](https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/ahmedraza17260)](https://twitter.com/ahmedraza17260)
-[![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ahmedraza1626)](https://www.facebook.com/ahmedraza1626)
+[![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ahmedraza263)](https://www.facebook.com/ahmedraza263)
 [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-blue?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ahmedraza17260)](https://instagram.com/ahmedraza17260)
 [![PORTFOLIO](https://img.shields.io/badge/-PORTFOLIO-blue?style=for-the-badge&logoColor=white&link=https://ahmedrazaportfolio.netlify.app/)](https://ahmedrazaportfolio.netlify.app/)
 
@@ -22,7 +22,7 @@ As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowi
 
 <!-- [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://img.icons8.com/nolan/26/facebook-new.png" link=https://www.facebook.com/ahmedraza1626 />](https://www.facebook.com/ahmedraza1626) -->
 
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://img.icons8.com/color/26/facebook-new.png" link=https://www.facebook.com/ahmedraza1626 />](https://www.facebook.com/ahmedraza1626)
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://img.icons8.com/color/26/facebook-new.png" link=https://www.facebook.com/ahmedraza263 />](https://www.facebook.com/ahmedraza263)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/26/000000/twitter--v1.png" link=https://https://twitter.com/ahmedraza17260 />](https://twitter.com/ahmedraza17260)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/26/000000/linkedin.png" link=https://linkedin.com/in/ahmed-raza-17260a/ />](https://linkedin.com/in/ahmed-raza-17260a/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color/26/000000/instagram-new--v2.png" link=https://instagram.com/ahmedraza17260 />](https://instagram.com/ahmedraza17260)
