@@ -4,7 +4,7 @@
 [![TWITTER](https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/ahmedraza17260)](https://twitter.com/ahmedraza17260)
 [![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ahmedraza263)](https://www.facebook.com/ahmedraza263)
 [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-blue?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ahmedraza17260)](https://instagram.com/ahmedraza17260)
-[![PORTFOLIO](https://img.shields.io/badge/-PORTFOLIO-blue?style=for-the-badge&logoColor=white&link=https://ahmedraza17260.github.io/raza-personal-portfolio/)](https://ahmedraza17260.github.io/raza-personal-portfolio/)
+[![PORTFOLIO](https://img.shields.io/badge/-PORTFOLIO-blue?style=for-the-badge&logoColor=white&link=https://ahmed-raza-portfolio.mohsinbhai.site/)](https://ahmed-raza-portfolio.mohsinbhai.site/)
 [![BLOG](https://img.shields.io/badge/-BLOG-blue?style=for-the-badge&logoColor=white&link=https://mohsinbhai1217.blogspot.com/)](https://mohsinbhai1217.blogspot.com/)
 
 As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowing me.
