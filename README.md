@@ -4,8 +4,8 @@
 [![TWITTER](https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/ahmedraza17260)](https://twitter.com/ahmedraza17260)
 [![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ahmedraza263)](https://www.facebook.com/ahmedraza263)
 [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-blue?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ahmedraza17260)](https://instagram.com/ahmedraza17260)
-[![PORTFOLIO](https://img.shields.io/badge/-PORTFOLIO-blue?style=for-the-badge&logoColor=white&link=https://ahmedraza-portfolio.mohsinbhai.site/)](https://ahmedraza-portfolio.mohsinbhai.site/)
-[![BLOG](https://img.shields.io/badge/-BLOG-blue?style=for-the-badge&logoColor=white&link=https://www.mohsinbhai.site/)](https://www.mohsinbhai.site/)
+[![PORTFOLIO](https://img.shields.io/badge/-PORTFOLIO-blue?style=for-the-badge&logoColor=white&link=https://ahmedrazaportfolio.netlify.app/)](https://ahmedrazaportfolio.netlify.app/)
+[![BLOG](https://img.shields.io/badge/-BLOG-blue?style=for-the-badge&logoColor=white&link=https://mbtechieblog.blogspot.com/)](https://mbtechieblog.blogspot.com/)
 
 As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowing me.
 
@@ -13,10 +13,10 @@ As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowi
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 🎲 Passionate Problem Solver.
 - ✅ Academic background in Engineering.
-- 🏃 Working towards childhood dream of being Software Engineer
+- 🏃 Working towards a childhood dream of being a Software Developer
 - 🕌 Muslim
 
 ### Connect with me:
