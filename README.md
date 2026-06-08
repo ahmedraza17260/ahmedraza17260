@@ -1,68 +1,59 @@
-### Hi there, I'm Ahmed Raza 👋👨‍💻 💻
+# Hi there, I'm Ahmed Raza 👋👨‍💻
+### 🛠️ Full-Stack Software Developer & Technical Specialist 🧪
 
-[![LINKEDIN Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedraza17260/)](https://www.linkedin.com/in/ahmedraza17260/)
-[![TWITTER](https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/ahmedraza17260)](https://twitter.com/ahmedraza17260)
-[![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/ahmedraza1726)](https://www.facebook.com/ahmedraza1726)
-[![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-blue?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ahmedraza17260)](https://instagram.com/ahmedraza17260)
-[![PORTFOLIO](https://img.shields.io/badge/-PORTFOLIO-blue?style=for-the-badge&logoColor=white&link=https://ahmedrazaportfolio.netlify.app/)](https://ahmedrazaportfolio.netlify.app/)
-[![BLOG](https://img.shields.io/badge/-BLOG-blue?style=for-the-badge&logoColor=white&link=https://mbtechieblog.blogspot.com/)](https://mbtechieblog.blogspot.com/)
+A dedicated developer specializing in building modern web applications with **Next.js, TypeScript, Tailwind CSS, and Supabase**. I love turning complex logic into structured, maintainable products—whether engineering enterprise tools, sleek frontends, or full-stack dashboards.
 
-As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowing me.
+---
 
-## I'm a Student!
+### 🌐 Connect & Follow My Journey
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- 🎲 Passionate Problem Solver.
-- ✅ Academic background in Engineering.
-- 🏃 Working towards a childhood dream of being a Software Developer
-- 🕌 Muslim
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmedraza17260/" target="_blank">
+    <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ahmedrazaportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-PORTFOLIO-darkgreen?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://mbtechieblog.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-BLOG-orange?style=for-the-badge&logo=Blogger&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://twitter.com/ahmedraza17260" target="_blank">
+    <img src="https://img.shields.io/badge/-TWITTER-black?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/ahmedraza1726" target="_blank">
+    <img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/ahmedraza17260" target="_blank">
+    <img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-### Connect with me:
+---
 
-<!-- [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://img.icons8.com/nolan/26/facebook-new.png" link=https://www.facebook.com/ahmedraza1626 />](https://www.facebook.com/ahmedraza1626) -->
+### 🚀 Featured Projects & Products
 
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://img.icons8.com/color/26/facebook-new.png" link=https://www.facebook.com/ahmedraza263 />](https://www.facebook.com/ahmedraza263)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/26/000000/twitter--v1.png" link=https://https://twitter.com/ahmedraza17260 />](https://twitter.com/ahmedraza17260)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/26/000000/linkedin.png" link=https://linkedin.com/in/ahmed-raza-17260a/ />](https://linkedin.com/in/ahmed-raza-17260a/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color/26/000000/instagram-new--v2.png" link=https://instagram.com/ahmedraza17260 />](https://instagram.com/ahmedraza17260)
-<br />
+* 🏢 **B2B Trading Portal Template**
+  * *Description:* A highly optimized, premium B2B e-commerce and trading portal built for seamless supplier-to-buyer transactions. Ideal for businesses looking for a fast, responsive, and secure trading frontend.
+  * *Links:* [🔗 Live Preview](https://b2b-trading-portal.vercel.app/) | [🛍️ Purchase on Gumroad](https://ahmedraza17260.gumroad.com/l/epoaay)
 
-<!-- [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" link=https://www.facebook.com/ahmedraza1626 />](https://www.facebook.com/ahmedraza1626)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" link=https://https://twitter.com/ahmedraza17260 />](https://twitter.com/ahmedraza17260)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" link=https://linkedin.com/in/ahmed-raza-17260a/ />](https://linkedin.com/in/ahmed-raza-17260a/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" link=https://instagram.com/ahmedraza17260 />](https://instagram.com/ahmedraza17260)
-<br /> -->
+* 🧪 **Refinery QC Console (Oil Quality Guardian) — *In Active Development***
+  * *Description:* A specialized full-stack SaaS platform engineered for automated laboratory calculations, chemical standardizations, and industrial quality control. Codebase will be published here upon completion.
 
-![Ahmed Raza GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedraza17260&count_private=true)
+* 💻 **Modern Web Portfolios & Labs**
+  * *Description:* Public frontend codebases exploring responsive UI architecture, including my customized presentation spaces `react-portfolio` and `raza-portfolio`.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedraza17260" alt="ahmedraza17260" /></p>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedraza17260&" alt="ahmedraza17260" /></p>
+---
 
-### Languages and Tools:
+### 🛠️ Tech Stack & Tooling
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<br />
-<br />
+| Core Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend Development** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend & Database** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **Languages & Logic** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white) |
+| **Workflow & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
-### Here are the tools I use/work with.
+---
 
-- **FrontEnd Technologies**: React/Redux, GraphQL
-- **Programming Languages**: JavaScript/Typescript, C#, ASP.NET, HTML, CSS, Bootstrap
-- **Version Control**: Git and GitHub
-  <br />
-
-### Profile Views
-
-![](https://komarev.com/ghpvc/?username=ahmedraza17260&style=plastic)
-
-#### Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/ahmedraza17260/count.svg)
+### 🕌 Peace be upon you!
+> "Passionate about engineering clean code, solving complex architectural puzzles, and continually learning the next evolution of technology."
