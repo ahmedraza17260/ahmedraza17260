@@ -36,6 +36,12 @@ A dedicated developer specializing in building modern web applications with **Ne
   * *Description:* A highly optimized, premium B2B e-commerce and trading portal built for seamless supplier-to-buyer transactions. Ideal for businesses looking for a fast, responsive, and secure trading frontend.
   * *Links:* [🔗 Live Preview](https://b2b-trading-portal.vercel.app/) | [🛍️ Purchase on Gumroad](https://ahmedraza17260.gumroad.com/l/epoaay)
 
+
+* 📧 Professional Email Signature Generator
+  * *Description:* A highly optimized, premium B2B e-commerce and trading portal built for seamless supplier-to-buyer transactions. Ideal for businesses looking for a fast, responsive, and secure trading frontend.
+  * *Links:* [🔗 Live Preview](https://email-signaturegenerator.vercel.app/) | [🛍️ Purchase on Gumroad](https://ahmedraza17260.gumroad.com/l/jtdhok)
+
+
 * 🧪 **Refinery QC Console (Oil Quality Guardian) — *In Active Development***
   * *Description:* A specialized full-stack SaaS platform engineered for automated laboratory calculations, chemical standardizations, and industrial quality control. Codebase will be published here upon completion.
 
