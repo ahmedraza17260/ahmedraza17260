@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed Raza 👋👨‍💻
-### 🛠️ Full-Stack Software Developer & Technical Specialist 🧪
+### 🧪 Applied Chemist & 🛠️ Web Developer
 
-A dedicated developer specializing in building modern web applications with **Next.js, TypeScript, Tailwind CSS, and Supabase**. I love turning complex logic into structured, maintainable products—whether engineering enterprise tools, sleek frontends, or full-stack dashboards.
+A dedicated developer and scientist specializing in building modern web applications with **Next.js, TypeScript, Tailwind CSS, and Supabase**. I bridge the gap between scientific precision and digital innovation—turning complex lab logic into structured, maintainable SaaS products, sleek frontends, and automated dashboards.
 
 ---
 
@@ -32,21 +32,54 @@ A dedicated developer specializing in building modern web applications with **Ne
 
 ### 🚀 Featured Projects & Products
 
-* 🏢 **B2B Trading Portal Template**
+* 🏢 **[B2B Trading Portal Template](https://b2b-trading-portal.vercel.app/)**
   * *Description:* A highly optimized, premium B2B e-commerce and trading portal built for seamless supplier-to-buyer transactions. Ideal for businesses looking for a fast, responsive, and secure trading frontend.
   * *Links:* [🔗 Live Preview](https://b2b-trading-portal.vercel.app/) | [🛍️ Purchase on Gumroad](https://ahmedraza17260.gumroad.com/l/epoaay)
 
-
-* 📧 Professional Email Signature Generator
-  * *Description:* A highly optimized, premium B2B e-commerce and trading portal built for seamless supplier-to-buyer transactions. Ideal for businesses looking for a fast, responsive, and secure trading frontend.
+* 📧 **[Professional Email Signature Generator](https://email-signaturegenerator.vercel.app/)**
+  * *Description:* A sleek, user-friendly tool designed to help professionals generate clean, responsive, and highly compatible HTML email signatures in seconds without writing any code.
   * *Links:* [🔗 Live Preview](https://email-signaturegenerator.vercel.app/) | [🛍️ Purchase on Gumroad](https://ahmedraza17260.gumroad.com/l/jtdhok)
 
-
-* 🧪 **Refinery QC Console (Oil Quality Guardian) — *In Active Development***
-  * *Description:* A specialized full-stack SaaS platform engineered for automated laboratory calculations, chemical standardizations, and industrial quality control. Codebase will be published here upon completion.
+* 🧪 **[Refinery QC Console (Oil Quality Guardian)](https://oil-quality-guardian.lovable.app/)**
+  * *Description:* A specialized full-stack SaaS platform engineered for automated laboratory calculations, chemical standardizations, and industrial quality control.
+  * *Links:* [🔗 Live Preview](https://oil-quality-guardian.lovable.app/) 
 
 * 💻 **Modern Web Portfolios & Labs**
-  * *Description:* Public frontend codebases exploring responsive UI architecture, including my customized presentation spaces `react-portfolio` and `raza-portfolio`.
+  * *Description:* Public frontend codebases exploring responsive UI architecture, including my customized presentation spaces. 
+  * *Links:* [🔗 raza-portfolio Repo](https://github.com/ahmedraza17260/raza-portfolio) | [🔗 react-portfolio Repo](https://github.com/ahmedraza17260/react-portfolio)
+
+---
+
+### 📈 GitHub Stats
+
+<!-- All Time Total -->
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ahmedraza17260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0c1a&title_color=66fcf1&icon_color=66fcf1&text_color=ffffff&include_all_commits=true&custom_title=All-Time%20Stats" alt="Ahmed's All-Time GitHub Stats" />
+</p>
+
+<!-- Current & Past Year Side-by-Side -->
+<p align="center">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=ahmedraza17260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0c1a&title_color=66fcf1&icon_color=66fcf1&text_color=ffffff&commits_year=2026&custom_title=2026%20Commits" alt="Ahmed's 2026 Stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=ahmedraza17260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0c1a&title_color=66fcf1&icon_color=66fcf1&text_color=ffffff&commits_year=2025&custom_title=2025%20Commits" alt="Ahmed's 2025 Stats" />
+</p>
+
+<!-- The "Streak Stats" Card (Cleanest Look) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmedraza17260&theme=tokyonight&hide_border=true&background=0b0c1a&ring=66fcf1&fire=66fcf1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=66fcf1&sideLabels=ffffff&dates=ffffff" alt="Ahmed's GitHub Streak" />
+</p>
+
+
+<!-- <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ahmedraza17260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0c1a&title_color=66fcf1&icon_color=66fcf1&text_color=ffffff&include_all_commits=true" alt="Ahmed's All-Time GitHub Stats" />
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ahmedraza17260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0c1a&title_color=66fcf1&icon_color=66fcf1&text_color=ffffff&commits_year=2026" alt="Ahmed's 2026 GitHub Stats" />
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ahmedraza17260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0c1a&title_color=66fcf1&icon_color=66fcf1&text_color=ffffff&commits_year=2025" alt="Ahmed's 2025 GitHub Stats" />
+</p> -->
 
 ---
 
