@@ -40,9 +40,10 @@ A dedicated developer and scientist specializing in building modern web applicat
   * *Description:* A sleek, user-friendly tool designed to help professionals generate clean, responsive, and highly compatible HTML email signatures in seconds without writing any code.
   * *Links:* [🔗 Live Preview](https://email-signaturegenerator.vercel.app/) | [🛍️ Purchase on Gumroad](https://ahmedraza17260.gumroad.com/l/jtdhok)
 
-* 🧪 **[Refinery QC Console (Oil Quality Guardian)](https://oil-quality-guardian.lovable.app/)**
-  * *Description:* A specialized full-stack SaaS platform engineered for automated laboratory calculations, chemical standardizations, and industrial quality control.
-  * *Links:* [🔗 Live Preview](https://oil-quality-guardian.lovable.app/) 
+* 🧪 **[Edible Oil Testing Tool (Refinery QC Console)](https://edibleoiltesting.netlify.app/)**
+  * *Description:* A specialized full-stack Next.js SaaS platform engineered for automated laboratory calculations, chemical standardizations, and industrial quality control. Features Google Auth, Cloud Database, and PDF Generation.
+  * *Links:* [🔗 Live Preview](https://edibleoiltesting.netlify.app/)
+   
 
 * 💻 **Modern Web Portfolios & Labs**
   * *Description:* Public frontend codebases exploring responsive UI architecture, including my customized presentation spaces. 
